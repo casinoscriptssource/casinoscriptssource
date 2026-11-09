@@ -1,4 +1,4 @@
-<a href="https://buycasino.co/"><img src="https://raw.githubusercontent.com/getcasinoscripts/getcasinoscripts/main/header.png" alt="BuyCasino.co: Launch Your Casino with Confidence" width="100%"></a>
+<a href="https://buycasino.co/"><img src="assets/header.png" alt="BuyCasino.co: Launch Your Casino with Confidence" width="100%"></a>
 
 <p align="center">
   <a href="https://buycasino.co/"><img src="https://img.shields.io/badge/Website-buycasino.co-1061f0?style=for-the-badge" alt="Website: buycasino.co"></a>
@@ -8,16 +8,16 @@
 
 ## About BuyCasino.co
 
-BuyCasino.co has been developing iGaming software for over 10 years. We build white label casino, sportsbook and prediction market platforms that help operators launch faster, scale efficiently, and grow with less friction.
+BuyCasino.co has been developing iGaming software for over 10 years. We build white label casino, sportsbook and prediction market platforms that help operators launch faster, scale efficiently, and run across desktop and mobile.
 
-<img src="https://raw.githubusercontent.com/getcasinoscripts/getcasinoscripts/main/stats.png" alt="2,400 happy clients, 40,000 casino games, 350 game studios, 200 sports offered" width="100%">
+<img src="assets/stats.png" alt="2,400 happy clients, 40,000 casino games, 350 game studios, 200 sports offered" width="100%">
 
 ## What we offer
 
 <p align="center">
-  <a href="https://buycasino.co/casino-platform/"><img src="https://raw.githubusercontent.com/getcasinoscripts/getcasinoscripts/main/card-casino.png" alt="Online Casino Platform" width="32%"></a>
-  <a href="https://buycasino.co/sportsbook-platform/"><img src="https://raw.githubusercontent.com/getcasinoscripts/getcasinoscripts/main/card-sportsbook.png" alt="Sportsbook Software" width="32%"></a>
-  <a href="https://buycasino.co/prediction-markets-platform/"><img src="https://raw.githubusercontent.com/getcasinoscripts/getcasinoscripts/main/card-prediction.png" alt="Prediction Markets" width="32%"></a>
+  <a href="https://buycasino.co/casino-platform/"><img src="assets/card-casino.png" alt="Online Casino Platform" width="32%"></a>
+  <a href="https://buycasino.co/sportsbook-platform/"><img src="assets/card-sportsbook.png" alt="Sportsbook Software" width="32%"></a>
+  <a href="https://buycasino.co/prediction-markets-platform/"><img src="assets/card-prediction.png" alt="Prediction Markets" width="32%"></a>
 </p>
 
 | Product | What it does |
@@ -44,6 +44,6 @@ BuyCasino.co has been developing iGaming software for over 10 years. We build wh
 
 ## Also available
 
-[Game provider partners](https://buycasino.co/game-provider-partners/) · [Licensing](https://buycasino.co/licensing/) · [Anjouan company setup](https://buycasino.co/anjouan-company-setup/) · [International betting licenses](https://buycasino.co/international-betting-licenses/) · [Blog](https://buycasino.co/blog/)
+[Game provider partners](https://buycasino.co/game-provider-partners/) · [Licensing](https://buycasino.co/licensing/) · [Anjouan company setup](https://buycasino.co/anjouan-company-setup/) · [Insights and news](https://buycasino.co/blog/)
 
-<a href="https://buycasino.co/contact/"><img src="https://raw.githubusercontent.com/getcasinoscripts/getcasinoscripts/main/footer.png" alt="Ready to launch? Talk to our team." width="100%"></a>
+<a href="https://buycasino.co/contact/"><img src="assets/footer.png" alt="Ready to launch? Talk to our team." width="100%"></a>
